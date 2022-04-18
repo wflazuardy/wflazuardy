@@ -2,7 +2,7 @@
 
 My name is Wildan and I'm aiming to be a Fullstack Data Practioner 🎯
 
-- 🔨 I’m currently working as Data Enginer in [KG Media](https://www.linkedin.com/company/kompas-gramedia/)
+- 🔨 I’m currently working as Data Engineer in [KG Media](https://www.linkedin.com/company/kompas-gramedia/)
 - 📖 I’m currently learning about Software Design Patterns and how to utilize Spark in Cloud Platforms. 
 - ⚡ Fun fact: I love cats! 🐈‍⬛
 
