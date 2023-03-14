@@ -2,8 +2,8 @@
 
 My name is Wildan and I'm aiming to be a Fullstack Data Practitioner 🎯
 
-- 🔨 I’m currently working as Data Engineer in [KG Media](https://www.linkedin.com/company/kompas-gramedia/)
-- 📖 I’m currently learning about Software Design Patterns and how to utilize Spark in Cloud Platforms. 
+- 🔨 I’m currently working as Data Engineer in [Ula](https://www.linkedin.com/company/uladotapp)
+- 📖 I’m currently learning about Datalakehouse architecture and how to utilize Spark in cloud platforms. 
 - ⚡ Fun fact: I love cats! 🐈‍⬛
 - ✉️ Contact me at [wflazuardy@gmail.com](mailto:wflazuardy@gmail.com)
 
