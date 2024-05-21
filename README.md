@@ -3,7 +3,7 @@
 My name is Wildan and I'm aiming to be a Fullstack Data Practitioner 🎯
 
 - 🔨 I’m currently working as Data Engineer in [Ula](https://www.linkedin.com/company/uladotapp)
-- 📖 I’m currently learning about Datalakehouse architecture and how to utilize Spark in cloud platforms. 
+- 📖 Committed to continuous learning and staying update with data engineering trends and technologies. 
 - ⚡ Fun fact: I love cats! 🐈‍⬛
 - ✉️ Contact me at [wflazuardy@gmail.com](mailto:wflazuardy@gmail.com)
 
