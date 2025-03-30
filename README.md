@@ -1,10 +1,10 @@
 # Hi ! 👋
 
-My name is Wildan and I'm aiming to be a Fullstack Data Practitioner 🎯
+My name is Wildan and I'm a Data Engineer.
 
-- 📖 Committed to continuous learning and staying update with data engineering trends and technologies. 
-- ⚡ Fun fact: I love cats! 🐈‍⬛
+- 🎯 Currently learning how to AI in a world approaching singularity.
 - ✉️ Contact me at [wflazuardy@gmail.com](mailto:wflazuardy@gmail.com)
+- or click links below 👇
 
 ## Socials
 
